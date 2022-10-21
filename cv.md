@@ -50,11 +50,12 @@ Your task is to calculate how many blank pages do you need. If n < 0 or m < 0 re
 ## **Education**
 
 ***University:*** Chelyabinsk Medical Academy, dantist; Perm Medical University, PhD
+
 ***Courses:***
-[Hehlet] ('https://ru.hexlet.io/u/user-a3e317a2716e076d')
+[Hehlet](https://ru.hexlet.io/u/user-a3e317a2716e076d)
 
 ## **Languages**
 
 * russian (native)
 * english (B1-C1)
-![Alt- english] (/images/english.jpg)
+![Alt- english](/images/english.jpg)
