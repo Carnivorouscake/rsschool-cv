@@ -1,19 +1,21 @@
 
 # **Elena Lazareva**
 
+![Alt- ](/images/me.jpg)
+
 ## **Contacts**
 
 ---
 
-***location:** Moscow, Russia
+* **location:** Moscow, Russia
 
-***email:** Lazareva0212@gmail.com
+* **email:** Lazareva0212@gmail.com
 
-***telegram:** @Carnivorouscake
+* **telegram:** @Carnivorouscake
 
-***discord:** elena#0896
+* **discord:** elena#0896
 
-***phone:** +79634738228
+* **phone:** +79634738228
 
 ## Junior front-end developer
 
@@ -23,10 +25,10 @@ I was a doctor the most part of my life and i never stop learning, graduated phd
 
 ## **Skils**
 
-*HTML5, CSS
-*JavaScript
-*Git, GitHub
-*VS Code
+* HTML5, CSS
+* JavaScript
+* Git, GitHub
+* VS Code
 
 ## **Code example**
 
