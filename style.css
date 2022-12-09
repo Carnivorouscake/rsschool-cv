@@ -1,86 +1,72 @@
 body {
-    
-    font-size:18;
+    font-size: 18;
     color: #333;
-    line-height:1.5;
-    text-align:center;
-   
-}
-.round {
-border-radius: 200px;
-}
-.block-left {
+    line-height: 1.5;
+    text-align: center;
+    margin: 0;
+  }
+  .round {
+    border-radius: 200px;
+  }
+  [class^="block"] {
     width: 50%;
-    height:1000px;
+    height: 1000px;
+  }
+  .block-left {
     left: 0;
-    top: 0;
-    background-color: rgba(32, 75, 46, 0.23);;
     position: relative;
-   
-    }
-.block-right {
+    background-color: rgba(32, 75, 46, 0.23);
+  }
+  .block-right {
     width: 50%;
     height: 100%;
     right: 0;
     left: 50%;
     top: 0;
-    background-color:rgba(0, 0, 0, 0);
+    background-color: rgba(0, 0, 0, 0);
     position: absolute;
-    display: inline; 
-}  
-h1 {
-    margin-top:50px;
-    margin-bottom:10px;
-    margin-left: 30px;
-    font-size:60;
-    text-align:left;
-}
-h2 {
-    margin-top: 0px;
-    margin-bottom: 30px;
-    margin-left: 30px;
+    display: inline;
+  }
+  h1 {
+    margin: 50px 30px 10px 30px;
+    font-size: 60;
+    text-align: left;
+  }
+  h2 {
+    margin: 0 30px 30px 30px;
     font-size: 25;
     text-align: left;
     text-decoration: underline;
-}
-section {
-    margin-top:50px;
-    margin-bottom:50px;
-    margin-left:0;
-    margin-right:0;
-    padding-left:10px;
-    padding-right:50px;
-    padding-top:0;
-    padding-bottom:0; 
-}
-.code {
-    
-text-align: left;
-}
-main > section > h2 {
+  }
+  p {
+    text-align: left;
+  }
+  
+  section {
+    margin: 30px 0;
+    padding: 0 50px 0 10px;
+  }
+  .code {
+    text-align: left;
+  }
+  main > section > h2 {
     padding: 0;
-    text-align:left;
-    border:none;   
-}
-ul > li {
-   margin-bottom:10;
-   text-align: left; 
-}
-footer {
-    position: static;
-    bottom: 0;
-    
-    width: 100%;
-
-}
-footer > a {
+    text-align: left;
+    border: none;
+  }
+  ul > li {
+    margin-bottom: 10;
+    text-align: left;
+    float: both;
+  }
+  
+  footer > a {
     font-size: 30px;
-    display: inline;
-    bottom: 0;
-}
-#git-hub{
+  }
+  #git-hub {
     margin-bottom: 50px;
-}
-#year{
+  }
+  #year {
     color: darkgray;
-}
+  }
+  
