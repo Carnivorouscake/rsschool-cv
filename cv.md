@@ -21,7 +21,7 @@
 
 ## **About me**
 
-I was a doctor the most part of my life and i never stop learning, graduated phd in 27 and my clinical practice made me good team worker and creative to find solutions in difficult causes.
+I was a doctor the most part of my life and i never stop learning, graduated phd in 27 and my clinical practice made me good team worker and creative to find solutions in difficult causes. 
 
 ## **Skils**
 
